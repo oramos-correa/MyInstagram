@@ -31,6 +31,8 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+If unable to be displayed, GIF available at https://imgur.com/a/eLi8NGc
+
 ## Notes
 
 Had an error where Main Activity would not show on the app, to fix this all I had to do was get rid of a TODO message
